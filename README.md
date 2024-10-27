@@ -1,1 +1,2 @@
-# practiceLmao
+# practice_repo
+practice repository
